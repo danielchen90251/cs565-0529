@@ -1,0 +1,40 @@
+{
+	"emails": [
+		{
+			"id": 505,
+			"title": "Meeting next week",
+			"from": "shang@oregonstate.edu",
+			"date": "May 14, 4:00 PM",
+			"content": "Hey Mike,<br /><br />I have an update for you. Can we meet next week? I can meet on Monday and Wednesday. Please let me know when you are available.<br /><br />-Shang"
+		},
+		{
+			"id": 504,
+			"title": "CS 565 Announcement",
+			"from": "notification@canvas.com",
+			"date": "May 12, 1:30 PM",
+			"content": "Hi class,<br /><br />A new assignment has been released.<br /><br />Please check them out.<br /><br />Cheers,<br />Minsuk"
+		},
+		{
+			"id": 503,
+			"title": "Meeting tomorrow",
+			"from": "alex@oregonstate.edu",
+			"date": "May 10, 1:30 PM",
+			"content": "Hey Mike,<br /><br />Can we meet tomorrow sometime in the afternoon? Please let me know when works for you.<br /><br />-Alex"
+		},
+		{
+			"id": 502,
+			"title": "Important Announcement for CS 501",
+			"from": "notification@canvas.com",
+			"date": "May 9, 1:00 PM",
+			"content": "Hi everyone,<br /><br />We will have no class tomorrow.<br /><br />-Prof. Smith"
+		},
+		{
+			"id": 501,
+			"title": "Update",
+			"from": "priya@abc.com",
+			"date": "Apr 30, 4:00 PM",
+			"hour": 10,
+			"content": "Hi Mike,<br /><br />I'd like to give you an update. We still need time to get back to you.<br /><br />Let me know if there is any issue.<br /><br />Best,<br />Priya"
+		}
+	]
+}
